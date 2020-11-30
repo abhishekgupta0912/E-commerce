@@ -171,11 +171,11 @@ body{
 }
 .shop .single-shorter label {
 	display: inline-block;
-	float: left;
+	/* float: left; */
 	margin: 4px 5px 0 0;
 	font-weight:500;
 }
-.shop .single-shorter option{}
+/* .shop .single-shorter option{} */
 .shop .nice-select {
 	clear: initial;
 	display: inline-block;
