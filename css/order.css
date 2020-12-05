@@ -54,7 +54,7 @@ body{
 .social-icon p a:hover i{ 
     color:#fff;
 }
-/*==========Navbar=============*/
+
 .bg-color{
     background: #0f0f0ffb;
 }
@@ -74,8 +74,7 @@ body{
 .navbar-toggler i{
     color: #f8aa02;
 }
-/*========End of Navbar===========*/
-/*==========Hero Section===========*/
+
 #hero{
     display:table;
     width: 100%;
@@ -214,7 +213,7 @@ body{
 
 }
 
-/* abava */
+
 
 :root {
     --primary-color: white;
